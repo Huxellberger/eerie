@@ -9,4 +9,4 @@ if not exist %exe_path% (
 )
 
 REM Run with rdb so we get debug info!
-start "" %exe_path% -g -q debugger/eerie.rdbg
+start "" "%exe_path%" -g -q debugger\eerie.rdbg

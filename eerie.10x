@@ -17,7 +17,8 @@
 		<CancelBuild></CancelBuild>
 		<RunCommand>run.bat</RunCommand>
 		<RunCommandWorkingDirectory></RunCommandWorkingDirectory>
-		<DebugCommand>build_and_run.bat</DebugCommand>
+		<DebugCommand>build.bat</DebugCommand>
+		<DebugArguments></DebugArguments>
 		<ExePathCommand>build/eerie.exe</ExePathCommand>
 		<DebugSln></DebugSln>
 		<UseVisualStudioEnvBat>false</UseVisualStudioEnvBat>
